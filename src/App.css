@@ -27,8 +27,10 @@ h2 {
 nav {
   display: flex;
   width: 100%;
+  gap: 7px;
   /* scroll horizontal */
   overflow-x: auto;
+  cursor: pointer;
 }
 
 /* dissimuler la scroolbar horizontal sous chaque liste */
